@@ -1,3 +1,6 @@
+ver 0.5.3
+Fixed issue when input vector layer is MultiPoint 
+
 ver 0.5.2
 Added French translation. Patch by Sebastien Peillet.
 
